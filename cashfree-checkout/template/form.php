@@ -4,9 +4,9 @@
 <input class="form-control" name="orderAmount" value="123"/>
 <input class="form-control" name="orderCurrency" value="INR"/>
 <input class="form-control" name="orderNote" value="orderNote"/>
-<input class="form-control" name="customerName" value="name"/>
-<input class="form-control" name="customerEmail" value="email@address"/>
-<input class="form-control" name="customerPhone" value="phone number"/>
+<input class="form-control" name="customerName" value="Customer name"/>
+<input class="form-control" name="customerEmail" value="email@gmail.com"/>
+<input class="form-control" name="customerPhone" value="123456789"/>
 <input class="form-control" name="returnUrl" value="https://www.mountainhomestays.com/success-page"/>
 <input class="form-control" name="notifyUrl" value="https://www.mountainhomestays.com/success-page"/>
 <button type="submit" class="btn btn-primary btn-block" value="Pay">Submit</button>
